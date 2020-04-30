@@ -1,4 +1,4 @@
-# Amazon SageMaker Studio RL Jupyter Notebook Examples
+# Amazon SageMaker RL Jupyter Notebook Examples
 
 본 주피터 노트북 예제들은 [SageMaker RL 공식 주피터 노트북 예제](https://github.com/awslabs/amazon-sagemaker-examples/tree/master/reinforcement_learning)들을 한국어화하였습니다.
 
@@ -15,7 +15,7 @@
 ## Aucoscaling
 - [Predictive Auto-scaling with Amazon SageMaker RL](rl_predictive_autoscaling_coach_customEnv): SageMaker RL을 활용한 오토스케일링
 
-# Roboschool
+## Roboschool
 - [Roboschool simulations training with stable baselines on Amazon SageMaker](rl_roboschool_stable_baselines): Stable baseline으로 Roboschool 시뮬레이션 훈련
 - [Scaling RL training across multiple CPU cores](rl_roboschool_ray/rl_roboschool_ray.ipynb): 물리 로봇의 Roboschool 시뮬레이션
 - [Scaling RL training across multiple instances, including heterogeneous GPU and CPU clusters](rl_roboschool_ray/rl_roboschool_ray_distributed.ipynb): 다중 노드들 간 분산 RL로 Roboschool 시뮬레이션
